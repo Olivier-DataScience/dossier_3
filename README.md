@@ -28,3 +28,6 @@ Guillaud_Olivier_3_dossier_code_022025/
 │── README.md #Ce fichier 
 ├── Guillaud_Olivier_2_notebook_modélisation_022025.ipynb # Notebook de modélisation 
 ├── best_lightgbm_model.pkl # Modèle entraîné
+
+Lien GitHub :
+https://github.com/Olivier-DataScience/dossier_3/tree/master
